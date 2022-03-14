@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "X/PrHBDn9U9zsqnOxmZjwD63r+B6LZVqYJQHZfyHoH/NsHuByVh0D2gjj3xb9FauV5hY+CdQrm/Emx6QZULDnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\asp.net\\TodoListMinimalWebApi\\TodoListMinimalWebApi\\TodoListMinimalWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0-preview.1.22076.6\\microsoft.entityframeworkcore.7.0.0-preview.1.22076.6.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0-preview.1.22076.6\\microsoft.entityframeworkcore.abstractions.7.0.0-preview.1.22076.6.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.0-preview.1.22076.6\\microsoft.entityframeworkcore.analyzers.7.0.0-preview.1.22076.6.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\7.0.0-preview.1.22076.6\\microsoft.entityframeworkcore.inmemory.7.0.0-preview.1.22076.6.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0-preview.1.22076.8\\microsoft.extensions.caching.abstractions.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0-preview.1.22076.8\\microsoft.extensions.caching.memory.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0-preview.1.22076.8\\microsoft.extensions.dependencyinjection.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0-preview.1.22076.8\\microsoft.extensions.dependencyinjection.abstractions.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0-preview.1.22076.8\\microsoft.extensions.logging.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0-preview.1.22076.8\\microsoft.extensions.logging.abstractions.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.options\\7.0.0-preview.1.22076.8\\microsoft.extensions.options.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0-preview.1.22076.8\\microsoft.extensions.primitives.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.collections.immutable\\7.0.0-preview.1.22076.8\\system.collections.immutable.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.0-preview.1.22076.8\\system.diagnostics.diagnosticsource.7.0.0-preview.1.22076.8.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\7.0.0-preview.1.22076.8\\system.runtime.compilerservices.unsafe.7.0.0-preview.1.22076.8.nupkg.sha512"
+  ],
+  "logs": []
+}
